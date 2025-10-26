@@ -1,8 +1,8 @@
-# Welcome to your Lovable project
+# Welcome to online voting project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/acaaaf44-a8ae-4c30-9e29-a41ec8fd3718
+**URL**: my-project1-ebon-psi.vercel.app
 
 ## How can I edit this code?
 
